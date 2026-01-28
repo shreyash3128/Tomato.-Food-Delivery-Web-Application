@@ -1,10 +1,10 @@
 .header{
-    height: 483.55px;
-    width: 1124.14px;
+    height: 70vh;
     margin: 30px auto;
-    background: url('/header_img.png') no-repeat;
-    background-size: contain;
+    background: url('/header_img.png') no-repeat center center;
+    background-size: cover;
     position: relative;
+    border-radius: 10px;
 }
 .header-contents{
     position: absolute;
